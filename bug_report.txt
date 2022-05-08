@@ -1,0 +1,15 @@
+Bug ID -ID number #123
+Name -Card - Unable to add new item to my card
+Reporter -JowiZaza
+Submit Date - 06.05.2022
+
+Summary -When my card containce one items, i am unable to add to second item  via the add to cart button in the product page
+URL- "www.example.com/product/abc"
+Screenshot - "www.example.com/screenshot123"
+Steps to reproduce -"add one item to card > go to product abc via the search bar > add new item to card via "add to card" button (sea screenshot)> go to cart"
+Expected result - The cart should contain 2 items
+Actual result-The cart contains only one item
+Description - "/"
+Severity - "Major"
+Assigned to - "/"
+Prioryity - "High"
