@@ -1,0 +1,25 @@
+<about>
+
+	<favorite_movie>
+		<question>Your favorite movie?</question>
+		<answer>One up in America</answer>
+	</favorite_movie>
+        <favorite_show>
+		<question>Your favorite TV show?</question>
+		<answer>Game_of_Throne</answer>
+	</favorite_show>
+	<favorite_food>
+		<question>Your favorite_food?</question>
+		<answer>Giros</answer>
+	</favorite_food>
+	<favorite_season>
+		<question>Your favorite season?</question>
+		<answer>Summer</answer>
+	</favorite_season>
+	<country_to_visit>
+		<question>What country you like visit?</Question>
+		<answer>Japan</answer>
+	</country_to_visit>
+</about>
+
+
